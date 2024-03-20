@@ -13,6 +13,10 @@ disableLanguages = [] # disable language from here
 [markup.goldmark.renderer]
 unsafe = true
 
+[taxonomies]
+colors = 'colors'
+sizes = 'sizes'
+
 #################################### Plugins ##########################################
 
 # CSS Plugins
